@@ -14,4 +14,8 @@ void draw() {
   if (keyPressed && key == 'r') {
     image(windows, 0, 0, displayWidth, displayHeight);
   }
+  
+  if(keyPressed && key == 'q') {
+    exit();
+  }
 }
