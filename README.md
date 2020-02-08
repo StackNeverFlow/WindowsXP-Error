@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> CLI that generates beautiful README.md files.
+> A Processing programm for creating WindowsXP Memes
 
 ## Usage
 
@@ -37,4 +37,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [StackNeverrFlow](https://github.com/StackNeverFlow).<br />
 This project is [MIT](https://github.com/StackNeverFlow/WindowsXP-Error/blob/master/LICENSE) licensed.
-
