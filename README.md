@@ -16,6 +16,8 @@
 
 ## Usage
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a698502d5863423f965e316bbd54403b)](https://app.codacy.com/manual/StackNeverFlow/WindowsXP-Error?utm_source=github.com&utm_medium=referral&utm_content=StackNeverFlow/WindowsXP-Error&utm_campaign=Badge_Grade_Settings)
+
 You need Processing to run it. https://processing.org/download/
 
 ## Author
