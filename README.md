@@ -5,7 +5,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/StackNeverFlow/WindowsXP-Error/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/StackNeverFlow/W" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/StackNeverFlow/WindowsXP-Error" />
   </a>
   <a href="https://twitter.com/StackNeverFlow" target="_blank">
     <img alt="Twitter: StackNeverFlow" src="https://img.shields.io/twitter/follow/StackNeverFlow.svg?style=social" />
